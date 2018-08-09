@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c53ec93d-4553-4c19-8b5d-b989277bf876" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1293164229">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="9" />
+          <entry key="css" value="3" />
+          <entry key="diagram" value="1" />
+          <entry key="edmx" value="1" />
+          <entry key="html" value="2" />
+          <entry key="md" value="1" />
+          <entry key="sql" value="1" />
+          <entry key="ts" value="6" />
+          <entry key="tt" value="2" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="9" />
+          <entry key="CSS" value="3" />
+          <entry key="HTML" value="2" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="SQL" value="1" />
+          <entry key="TypeScript" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="Angular2LanguageService" value="1" />
+          <entry key="TsLintLanguageService" value="1" />
+          <entry key="TypeScriptServerServiceImpl" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1898683427">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="config" value="5" />
+          <entry key="cs" value="27" />
+          <entry key="css" value="3" />
+          <entry key="diagram" value="1" />
+          <entry key="edmx" value="5" />
+          <entry key="html" value="13" />
+          <entry key="js" value="15" />
+          <entry key="json" value="12" />
+          <entry key="lock" value="1" />
+          <entry key="sln" value="1" />
+          <entry key="sol" value="12" />
+          <entry key="ts" value="43" />
+          <entry key="tt" value="5" />
+          <entry key="user" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="27" />
+          <entry key="CSS" value="3" />
+          <entry key="HTML" value="13" />
+          <entry key="JSON" value="12" />
+          <entry key="JavaScript" value="15" />
+          <entry key="PLAIN_TEXT" value="31" />
+          <entry key="TypeScript" value="43" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="Angular2LanguageService" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="9" />
+          <entry key="html" value="370" />
+          <entry key="js" value="67" />
+          <entry key="json" value="10" />
+          <entry key="sol" value="107" />
+          <entry key="ts" value="2646" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="9" />
+          <entry key="HTML" value="370" />
+          <entry key="JSON" value="10" />
+          <entry key="JavaScript" value="67" />
+          <entry key="PLAIN_TEXT" value="107" />
+          <entry key="TypeScript" value="2646" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angular-front/src/app/employees/shared/contracts.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+              <folding>
+                <element signature="e#96#148#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/angular-front/blockchain/truffle.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>DBModel</find>
+      <find>WebAPIDB</find>
+      <find>WebAPI</find>
+      <find>api/Employee</find>
+      <find>GetEmployee</find>
+      <find>GetEmployees</find>
+      <find>result</find>
+      <find>resultg</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\benji.santos\Desktop\Angular-5-With-Web-API-CRUD-Application\angular-front</dir>
+      <dir>C:\Users\benji.santos\Desktop\Angular-5-With-Web-API-CRUD-Application\WebAPI</dir>
+      <dir>C:\Users\benji.santos\Desktop\Angular-net\WebAPI</dir>
+      <dir>C:\Users\benji.santos\Desktop\Angular-net</dir>
+      <dir>C:\Users\benji.santos\Desktop\Angular-net\angular-front</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/angular-front/src/index.html" />
+        <option value="$PROJECT_DIR$/angular-front/src/styles.css" />
+        <option value="$PROJECT_DIR$/angular-front/src/main.ts" />
+        <option value="$PROJECT_DIR$/WebAPI/WebAPI/Controllers/EmployeeController.cs" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/blockchain/contracts/Storage.sol" />
+        <option value="$PROJECT_DIR$/blockchain/truffle.js" />
+        <option value="$PROJECT_DIR$/blockchain/migrations/2_deploy_contracts.js" />
+        <option value="$PROJECT_DIR$/blockchain/truffle-config.js" />
+        <option value="$PROJECT_DIR$/angular-front/blockchain/migrations/2_deploy_contracts.js" />
+        <option value="$PROJECT_DIR$/angular-front/src/app/employees/employee-list/employee-list.component.ts" />
+        <option value="$PROJECT_DIR$/WebAPI/WebAPI/App_Start/WebApiConfig.cs" />
+        <option value="$PROJECT_DIR$/angular-front/blockchain/build/contracts/UserRegister.json" />
+        <option value="$PROJECT_DIR$/angular-front/src/app/abi/userregister.ts" />
+        <option value="$PROJECT_DIR$/angular-front/package.json" />
+        <option value="$PROJECT_DIR$/angular-front/src/app/employees/shared/employee.service.ts" />
+        <option value="$PROJECT_DIR$/angular-front/src/app/abi/userregister.json" />
+        <option value="$PROJECT_DIR$/angular-front/src/app/employees/models/user-register.ts" />
+        <option value="$PROJECT_DIR$/angular-front/src/app/employees/employee/employee.component.ts" />
+        <option value="$PROJECT_DIR$/angular-front/blockchain/contracts/UsersRegister.sol" />
+        <option value="$PROJECT_DIR$/angular-front/src/app/example/example.component.ts" />
+        <option value="$PROJECT_DIR$/angular-front/src/app/employees/example/example.component.ts" />
+        <option value="$PROJECT_DIR$/angular-front/src/app/employees/employees.component.html" />
+        <option value="$PROJECT_DIR$/angular-front/src/app/employees/employee/employee.component.html" />
+        <option value="$PROJECT_DIR$/angular-front/src/app/employees/example/example.component.html" />
+        <option value="$PROJECT_DIR$/angular-front/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/angular-front/src/app/employees/shared/contracts.service.ts" />
+        <option value="$PROJECT_DIR$/angular-front/blockchain/truffle.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/angular-front/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/angular-front/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1358" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Angular-net" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Angular-net" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Angular-net" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Angular-net" type="462c0819:PsiDirectoryNode" />
+              <item name="WebAPI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Angular-net" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Angular-net" type="462c0819:PsiDirectoryNode" />
+              <item name="WebAPI" type="462c0819:PsiDirectoryNode" />
+              <item name=".vs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Angular-net" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Angular-net" type="462c0819:PsiDirectoryNode" />
+              <item name="WebAPI" type="462c0819:PsiDirectoryNode" />
+              <item name=".vs" type="462c0819:PsiDirectoryNode" />
+              <item name="WebAPI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Angular-net" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Angular-net" type="462c0819:PsiDirectoryNode" />
+              <item name="WebAPI" type="462c0819:PsiDirectoryNode" />
+              <item name=".vs" type="462c0819:PsiDirectoryNode" />
+              <item name="WebAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="v15" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Angular-net" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Angular-net" type="462c0819:PsiDirectoryNode" />
+              <item name="WebAPI" type="462c0819:PsiDirectoryNode" />
+              <item name=".vs" type="462c0819:PsiDirectoryNode" />
+              <item name="WebAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="v15" type="462c0819:PsiDirectoryNode" />
+              <item name="Server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Angular-net" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Angular-net" type="462c0819:PsiDirectoryNode" />
+              <item name="WebAPI" type="462c0819:PsiDirectoryNode" />
+              <item name=".vs" type="462c0819:PsiDirectoryNode" />
+              <item name="WebAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="v15" type="462c0819:PsiDirectoryNode" />
+              <item name="Server" type="462c0819:PsiDirectoryNode" />
+              <item name="sqlite3" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="C:\Users\benji.santos\Desktop\Angular-5-With-Web-API-CRUD-Application\angular-front\node_modules\tslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="ts.external.directory.path" value="C:\Users\benji.santos\Desktop\Angular-net\angular-front\node_modules\typescript\lib" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c53ec93d-4553-4c19-8b5d-b989277bf876" name="Default Changelist" comment="" />
+      <created>1533588705638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533588705638</updated>
+      <workItem from="1533588706994" duration="4321000" />
+      <workItem from="1533599676789" duration="2558000" />
+      <workItem from="1533655360855" duration="523000" />
+      <workItem from="1533660689618" duration="56371000" />
+      <workItem from="1533830792329" duration="587000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="64360000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" x="1881" y="59" width="336" height="650" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3276923" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32923076" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/angular-front/blockchain/build/contracts/Migrations.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-front/blockchain/contracts/Migrations.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-front/blockchain/build/contracts/Products.json" />
+    <entry file="file://$PROJECT_DIR$/WebAPI/WebAPI/Models/DBModels.Designer.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-front/blockchain/migrations/2_deploy_contracts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/WebAPI/Models/DBModels.edmx.diagram">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/WebAPI/Models/DBModels.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/WebAPI/Models/DBModels.tt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/WebAPI/Models/Employee.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/WebAPI/Models/DBModels.edmx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1097">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/WebAPI/Models/DBModels.Context.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/WebAPI/Models/DBModels.Context.tt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1137">
+          <caret line="84" column="42" lean-forward="true" selection-start-line="84" selection-start-column="42" selection-end-line="84" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/WebAPI/App_Start/RouteConfig.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/WebAPI/App_Start/BundleConfig.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-front/src/app/employees/shared/employee.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-front/src/app/employees/employee-list/employee-list.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-front/node_modules/web3/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-front/src/app/abi/userregister.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-end-line="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-front/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-front/src/app/employees/employee/employee.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-front/src/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-front/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-front/blockchain/build/contracts/UserRegister.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-front/src/app/abi/userregister.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-front/src/app/employees/models/user-register.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-front/blockchain/contracts/UsersRegister.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/WebAPI/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="40" selection-start-line="8" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-front/src/app/example/example.component.css" />
+    <entry file="file://$PROJECT_DIR$/angular-front/src/app/example/example.component.html" />
+    <entry file="file://$PROJECT_DIR$/angular-front/src/app/example/example.component.ts" />
+    <entry file="file://$PROJECT_DIR$/angular-front/src/app/employees/employee-list/employee-list.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-front/src/app/employees/employees.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/WebAPI/WebAPI.csproj.user">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/WebAPI.sln">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-front/src/app/employees/example/example.component.html" />
+    <entry file="file://$PROJECT_DIR$/angular-front/src/app/employees/example/example.component.ts" />
+    <entry file="file://$PROJECT_DIR$/WebAPI/WebAPI/Web.Release.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/WebAPI/Web.Debug.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/WebAPI/Web.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/WebAPI/App_Start/WebApiConfig.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/WebAPI/Controllers/EmployeeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-front/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-front/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-front/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-front/src/app/employees/shared/employee.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-front/src/app/employees/employee/employee.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="36" column="26" lean-forward="true" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-front/src/app/employees/employee/employee.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-721">
+          <caret line="37" column="25" lean-forward="true" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-front/src/app/employees/shared/contracts.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="e#96#148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-front/blockchain/truffle-config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/.vs/WebAPI/v15/Server/sqlite3/db.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-front/blockchain/truffle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
